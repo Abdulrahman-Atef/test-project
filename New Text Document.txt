@@ -1,0 +1,5 @@
+- Building good tables (pagination)
+- charts
+- typescript
+- scss
+- tailwind

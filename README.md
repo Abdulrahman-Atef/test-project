@@ -1,6 +1,4 @@
 # test-project
 
-adasdsad
-dasdasdasd
-dasdasd
+test
  - sdadasd
